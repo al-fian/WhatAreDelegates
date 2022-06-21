@@ -13,5 +13,10 @@
 
             processor.Process("photo.js", filterHandler);
         }
+
+        static void RemoveRedEyeFilter(Photo photo)
+        {
+            Console.WriteLine("Remove red eyes...");
+        }
     }
 }
