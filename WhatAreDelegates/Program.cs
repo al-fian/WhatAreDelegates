@@ -5,7 +5,12 @@
         static void Main(string[] args)
         {
             var processor = new PhotoProcessor();
-            processor.Process("photo.js");
+
+            var filters = new PhotoFilters();
+
+            PhotoProcessor.PhotoFilterHandler filterHandler = filters.ApplyBrightness;
+
+            processor.Process("photo.js", filterHandler);
         }
     }
 }

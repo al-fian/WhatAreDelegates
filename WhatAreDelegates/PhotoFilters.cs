@@ -20,7 +20,7 @@ namespace WhatAreDelegates
 
         public void Resize(Photo photo)
         {
-            Console.WriteLine("Resize photo...");
+            Console.WriteLine("");
         }
     }
 }
