@@ -10,6 +10,7 @@
 
             PhotoProcessor.PhotoFilterHandler filterHandler = filters.ApplyBrightness;
             filterHandler += filters.ApplyContrast;
+            filterHandler += RemoveRedEyeFilter;
 
             processor.Process("photo.js", filterHandler);
         }
