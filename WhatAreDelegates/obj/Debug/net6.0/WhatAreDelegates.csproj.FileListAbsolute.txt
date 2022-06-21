@@ -1,0 +1,15 @@
+C:\Users\alfia\source\repos\WhatAreDelegates\WhatAreDelegates\bin\Debug\net6.0\WhatAreDelegates.exe
+C:\Users\alfia\source\repos\WhatAreDelegates\WhatAreDelegates\bin\Debug\net6.0\WhatAreDelegates.deps.json
+C:\Users\alfia\source\repos\WhatAreDelegates\WhatAreDelegates\bin\Debug\net6.0\WhatAreDelegates.runtimeconfig.json
+C:\Users\alfia\source\repos\WhatAreDelegates\WhatAreDelegates\bin\Debug\net6.0\WhatAreDelegates.dll
+C:\Users\alfia\source\repos\WhatAreDelegates\WhatAreDelegates\bin\Debug\net6.0\WhatAreDelegates.pdb
+C:\Users\alfia\source\repos\WhatAreDelegates\WhatAreDelegates\obj\Debug\net6.0\WhatAreDelegates.csproj.AssemblyReference.cache
+C:\Users\alfia\source\repos\WhatAreDelegates\WhatAreDelegates\obj\Debug\net6.0\WhatAreDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfia\source\repos\WhatAreDelegates\WhatAreDelegates\obj\Debug\net6.0\WhatAreDelegates.AssemblyInfoInputs.cache
+C:\Users\alfia\source\repos\WhatAreDelegates\WhatAreDelegates\obj\Debug\net6.0\WhatAreDelegates.AssemblyInfo.cs
+C:\Users\alfia\source\repos\WhatAreDelegates\WhatAreDelegates\obj\Debug\net6.0\WhatAreDelegates.csproj.CoreCompileInputs.cache
+C:\Users\alfia\source\repos\WhatAreDelegates\WhatAreDelegates\obj\Debug\net6.0\WhatAreDelegates.dll
+C:\Users\alfia\source\repos\WhatAreDelegates\WhatAreDelegates\obj\Debug\net6.0\refint\WhatAreDelegates.dll
+C:\Users\alfia\source\repos\WhatAreDelegates\WhatAreDelegates\obj\Debug\net6.0\WhatAreDelegates.pdb
+C:\Users\alfia\source\repos\WhatAreDelegates\WhatAreDelegates\obj\Debug\net6.0\WhatAreDelegates.genruntimeconfig.cache
+C:\Users\alfia\source\repos\WhatAreDelegates\WhatAreDelegates\obj\Debug\net6.0\ref\WhatAreDelegates.dll
