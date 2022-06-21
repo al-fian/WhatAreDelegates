@@ -9,6 +9,7 @@
             var filters = new PhotoFilters();
 
             PhotoProcessor.PhotoFilterHandler filterHandler = filters.ApplyBrightness;
+            filterHandler += filters.ApplyContrast;
 
             processor.Process("photo.js", filterHandler);
         }
